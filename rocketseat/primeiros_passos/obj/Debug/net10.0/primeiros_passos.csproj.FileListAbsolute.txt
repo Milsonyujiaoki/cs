@@ -1,0 +1,15 @@
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/bin/Debug/net10.0/primeiros_passos
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/bin/Debug/net10.0/primeiros_passos.deps.json
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/bin/Debug/net10.0/primeiros_passos.runtimeconfig.json
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/bin/Debug/net10.0/primeiros_passos.dll
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/bin/Debug/net10.0/primeiros_passos.pdb
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.AssemblyInfoInputs.cache
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.AssemblyInfo.cs
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.csproj.CoreCompileInputs.cache
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.sourcelink.json
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.dll
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/refint/primeiros_passos.dll
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.pdb
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/primeiros_passos.genruntimeconfig.cache
+/home/dev-yuji/projetos/programming-languages/cs/rocketseat/primeiros_passos/obj/Debug/net10.0/ref/primeiros_passos.dll
